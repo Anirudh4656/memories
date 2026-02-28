@@ -1,24 +1,24 @@
 # 🧠 Memories App — Frontend (React + Redux)
-
+[Live Demo](https://memories-frontend1.netlify.app/)
 ## 🌟 Features
 
 ### 📝 Memories Management
 - Create, edit, delete memories
 - View detailed memory pages
 - Recommended related memories
-
+![Home Page](./public/image1.png)
 ### 💬 Comments System
 - Add comments to memories
 - Scrollable comment section
 - Auto-scroll to latest comment
 - Conditional rendering for authenticated users
 - Real-time UI update after posting comment
-
+![Page](./public/image3.png)
 ### ❤️ Optimized Likes System
 - Instant UI feedback on like/unlike
 - Async backend synchronization
 - Optimistic UI updates
-
+![Page](./public/image2.png)
 ### 🔎 Search & Pagination
 - Search memories by:
   - Title
