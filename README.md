@@ -50,4 +50,6 @@
 - CSS-in-JS Styling
 
 ---
-
+next-goal
+-Implement CI/CD pipeline
+-Deployment to Aws
